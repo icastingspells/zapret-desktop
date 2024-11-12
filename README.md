@@ -1,2 +1,1 @@
 ﻿# zapret-desktop
-test
