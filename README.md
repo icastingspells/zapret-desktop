@@ -30,6 +30,6 @@
 - Программа будет постоянно обновляться при появлении новых проблем с блокировками 
 
 
-## За сборку спасибо [HyperBeam](t.me/hyperbeamm)
+## За сборку спасибо [HyperBeam](https://t.me/hyperbeamm)
 
 Welcome to free internet
